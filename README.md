@@ -8,7 +8,7 @@ A website that offers a codebase that follows accessibility standards so that th
 * CSS
 
 ## Website
-https://l     file:///Users/andrewbanks/Desktop/Challenge%201%20folder/Develop/index.html
+https://banksandrew16.github.io/challenge1a/
 
 ## Contribution
 Andrew Banks
